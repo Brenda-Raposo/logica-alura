@@ -1,2 +1,2 @@
 # logica-alura
-Lógica Alura
+Meus códigos feitos no curso de lógica da programação 1 no Alura.
